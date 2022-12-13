@@ -10,7 +10,7 @@ coverage
 
 # builds
 build
-dist
+# dist
 .rpt2_cache
 .eslintcache
 
@@ -28,3 +28,5 @@ yarn-error.log*
 
 .vscode
 .idea
+
+.yarn
